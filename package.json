@@ -1,0 +1,19 @@
+{
+  "name": "youssef-tarek-mon-thur-5-8-assignment8-01017842129",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "joi": "^17.13.3",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.5.1",
+    "youssef-tarek-mon-thur-5-8-assignment8-01017842129": "file:"
+  }
+}
